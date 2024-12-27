@@ -23,7 +23,7 @@ Whether you're an ML practitioner, researcher, or enthusiast, this repository of
 
 1. Clone the Repository
 
-   git clone https://github.com/your-username/Toy-Diffusion-Playground.git
+   git clone https://github.com/moralespanitz/Toy-Diffusion-Playground.git
    cd Toy-Diffusion-Playground
 
 2. Set Up the Environment
